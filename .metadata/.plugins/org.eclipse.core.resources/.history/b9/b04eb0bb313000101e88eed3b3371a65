@@ -1,0 +1,22 @@
+package entities;
+
+public class Account {
+
+		private int number;
+		private String houlder;
+		private double balance;
+		
+		public Account (int number, String houlder) {
+			this.number = number; 
+			this.houlder = houlder;
+						
+		}	
+
+		public Account (int number, String houlder,double balance) {
+			this.number = number; 
+			this.houlder = houlder;
+			this.balance = balance;						
+		}
+		
+		
+}

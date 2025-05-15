@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\tmp\udemy-curso-java\eclipse-workspace\exercicio3-while\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3876824577.index
+2811734150.index
+2393494494.index
